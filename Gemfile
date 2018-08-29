@@ -9,6 +9,7 @@ ruby '2.4.1'
 gem 'bootstrap-sass'
 gem 'rails', '~> 5.2.0'
 gem 'bcrypt'
+gem 'binding_of_caller'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
